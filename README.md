@@ -39,3 +39,10 @@ Este texto esta en _**negrita y cursiva**_
 
 [Esto es un enlace](https://www.youtube.com/ "Enlace a Youtube")
 
+![Esto es una imagen de un influencer](https://github.com/diegoarquito/ASIX1M4UF1_A3apuntes/blob/main/unnamed.jpg "Título opcional de la imagen")
+|Primera Col.| Segunda Col.| 3 col.|
+|---------------|:------------:|---------:|
+|Col 2 es |Centrada|20$|
+Col 3 es |Derecha|5$|
+|Estilo Cebra|Gris|Blanco
+|Clase|ASIX1|M4|
