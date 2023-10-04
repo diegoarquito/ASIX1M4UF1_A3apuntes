@@ -43,6 +43,12 @@ Este texto esta en _**negrita y cursiva**_
 |Primera Col.| Segunda Col.| 3 col.|
 |---------------|:------------:|---------:|
 |Col 2 es |Centrada|20$|
-Col 3 es |Derecha|5$|
+|Col 3 es |Derecha|5$|
 |Estilo Cebra|Gris|Blanco
 |Clase|ASIX1|M4|
+
+-[] Opción A
+
+-[X] Opción B
+
+-[] Opción C
